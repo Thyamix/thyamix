@@ -1,16 +1,34 @@
-## Hi there 👋
+Hey, I'm Thyamix 👋
+Self-taught developer passionate about building useful things and learning new technologies.
+🚀 Currently
 
-<!--
-**Thyamix/thyamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Contributing to EmortalMC (Minecraft server, Java/Minestom)
+📚 Learning more Java and expanding my web dev skills
+🌱 Always working on new projects
 
-Here are some ideas to get you started:
+💻 Tech Stack
+Languages: Go, Java, JavaScript, Python
+Frontend: React, TailwindCSS
+Backend: REST APIs, WebSockets
+Tools: Arch Linux, Neovim, Git, Docker
+Databases: PostgreSQL, SQLite
+🌟 Featured Projects
+Sumcrowds
+Real-time event attendance tracker built with Go + React + WebSockets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Created for a local music festival to manage venue capacity
+Bilingual interface (FR/EN), secure sessions, CSV export
+Open source (MIT License)
+
+EmortalMC Contributions
+Contributing to an open-source Minecraft server project
+
+Working on Minesweeper game features and save system implementation
+Learning collaborative development and code review processes
+
+🌍 Languages
+🇫🇷 French (native) • 🇬🇧 English (native) • 🇪🇸 Spanish (intermediate)
+📫 Get in Touch
+📧 Always interested in interesting projects and collaborations
+
+💡 Always learning, always building, always curious about how things work.
