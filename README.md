@@ -11,7 +11,7 @@
 ## 💻 Tech Stack
 
 **Languages:** Go, Java, JavaScript, Python  
-**Frontend:** React, TailwindCSS  
+**Frontend:** React  
 **Backend:** REST APIs, WebSockets  
 **Tools:** Arch Linux, Neovim, Git, Docker  
 **Databases:** PostgreSQL, SQLite  
