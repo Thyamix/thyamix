@@ -1,42 +1,34 @@
-# Hey, I'm Thyamix 👋
+# Alexander Pollock
 
-**Self-taught developer** passionate about building useful things and learning new technologies.
+Backend engineer working primarily in Go. Self-taught, building real things.
 
-## 🚀 Currently
+## What I'm working on
 
-- 🔧 Contributing to **EmortalMC** (Minecraft server, Java/Minestom)
-- 📚 Learning more **Java** and expanding my web dev skills
-- 🌱 Always working on new projects
+**NimbusMC** — Minecraft battle royale (Fortnite remake). Contributor since April 2026.
+First PR merged within a week of joining. Work so far includes reworking the storm circle
+generation using trigonometry to guarantee the shrinking circle always stays fully inside
+the previous one, and adding player utility commands to the command system.
 
-## 💻 Tech Stack
+**factuvo.fr** (closed source) — SaaS invoicing platform I built and run for French self-employed teachers.
+Full stack in Go and React, with French regulatory compliance (e-invoicing 2026, URSSAF, GDPR).
 
-**Languages:** Go, Java, JavaScript, Python  
-**Frontend:** React  
-**Backend:** REST APIs, WebSockets  
-**Tools:** Arch Linux, Neovim, Git, Docker  
-**Databases:** PostgreSQL, SQLite  
+**multiproxy-test** — Open-source Go prototype for a dynamically scaling Minecraft proxy
+controller. Kubernetes-based, with a Go controller that creates/removes proxies on player
+load, Cloudflare SRV DNS updates, and player transfer logic. Building this publicly while
+I learn the patterns before deploying to NimbusMC.
 
-## 🌟 Featured Projects
+## Stack
 
-### [Sumcrowds](https://github.com/Thyamix/sumcrowds) 
-Real-time event attendance tracker built with **Go + React + WebSockets**
-- Created for a local music festival to manage venue capacity
-- Bilingual interface (FR/EN), secure sessions, CSV export
-- Open source (MIT License)
+Go · Java · TypeScript/React · PostgreSQL  
+Kubernetes · Docker · OpenTofu · Traefik · NATS  
+Linux (Ubuntu, daily driver) · Neovim · Git
 
-### [EmortalMC Contributions](https://github.com/EmortalMC)
-Contributing to an open-source Minecraft server project
-- Working on **Minesweeper game features** and **save system implementation**
-- Learning collaborative development and code review processes
+## Projects
 
-## 🌍 Languages
+- [sumcrowds](https://github.com/thyamix/sumcrowds) — real-time festival crowd tracker
+- [multiproxy-test](https://github.com/thyamix/multiproxy-test) — scaling proxy controller
+- [factuvo.fr](https://factuvo.fr) — invoicing SaaS (closed source)
 
-🇫🇷 French (native) • 🇬🇧 English (native) • 🇪🇸 Spanish (intermediate)
+## Languages
 
-## 📫 Get in Touch
-
-📧 Always interested in interesting projects and collaborations
-
----
-
-💡 *Always learning, always building, always curious about how things work.*
+English (native) · French (native) · Spanish (intermediate)
