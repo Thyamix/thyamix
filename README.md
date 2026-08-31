@@ -27,7 +27,6 @@ Linux (Ubuntu, daily driver) · Neovim · Git
 
 - [sumcrowds](https://github.com/thyamix/sumcrowds) — real-time festival crowd tracker
 - [multiproxy-test](https://github.com/thyamix/multiproxy-test) — scaling proxy controller
-- [factuvo.fr](https://factuvo.fr) — invoicing SaaS (closed source)
 
 ## Languages
 
